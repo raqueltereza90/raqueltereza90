@@ -22,11 +22,17 @@ Equipado com as melhores ferramentas para dominar a codificação:
 
 🕹️ Perfil de Jogadora
 
-🇧🇷 Exploradora Digital: Apaixonada por aprender, programar e superar desafios diariamente.
+🌱 **Exploradora Digital**: Sempre desbravando novos caminhos no mundo da programação, transformando desafios em oportunidades de evolução. A cada projeto, uma nova aventura tecnológica!
 
-📚 Dev em Evolução: Sempre em busca de novos conhecimentos, cursos e certificações.
+💡 **Code Alquimista**: Unindo lógica, criatividade e técnica para transformar linhas de código em soluções poderosas e funcionais. Apaixonada por criar experiências que fazem a diferença!
 
-🎮 Fã de desenvolvimento de sistemas: Criando soluções eficientes, robustas e com impacto real.
+🎯 **Full-Stack Heroína**: Da estrutura robusta do backend até a estética encantadora do frontend, dominando linguagens e frameworks como **JavaScript**, **Node**, **React**, **Python** e muito mais!
+
+🎮 **Game Dev em Missão**: Entre commits e deploys, explorando o fascinante universo da criação de jogos, moldando mundos virtuais com narrativas imersivas e mecânicas envolventes.
+
+🚀 **Apaixonada por Tecnologia e Natureza**: Divido meu tempo entre os bits e bytes da programação e a tranquilidade das trilhas e acampamentos, buscando equilíbrio e inspiração.
+
+🤝 **Colaboradora nata**: Acredito que grandes conquistas são feitas em equipe! Sempre pronta para compartilhar conhecimento e aprender com a comunidade dev.
 
 ---
 
